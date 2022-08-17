@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Global.js</file>
+        <file>MainForm.qml</file>
+        <file>EntForm.qml</file>
+        <file>BorelForm.qml</file>
+        <file>SSTest3.qml</file>
+        <file>ssTest4.qml</file>
+        <file>SSTest12.qml</file>
+        <file>NIST_SP800_90B_Form.qml</file>
+        <file>DieharderForm.qml</file>
+        <file>NistSp80022Form.qml</file>
+        <file>OutputForm.qml</file>
+    </qresource>
+    <qresource prefix="/CustomControls">
+        <file>CustomButtonLayout.qml</file>
+        <file>CustomToggleButton.qml</file>
+        <file>CustomButton.qml</file>
+        <file>CustomResult.qml</file>
+        <file>CustomFileDialog.qml</file>
+        <file>CustomPath.qml</file>
+        <file>CustomCheckBox.qml</file>
+        <file>CustomBusyIndicator.qml</file>
+        <file>CustomMenuBar.qml</file>
+        <file>CustomDialog.qml</file>
+    </qresource>
+    <qresource prefix="/Fonts">
+        <file>Assets/BTitrBold.ttf</file>
+        <file>Assets/nasim.ttf</file>
+        <file>Assets/times new roman.ttf</file>
+    </qresource>
+    <qresource prefix="/Pictures">
+        <file>Assets/BackgroundImage.jpg</file>
+        <file>Assets/icon.png</file>
+        <file>Assets/ICQTs.png</file>
+    </qresource>
+</RCC>
